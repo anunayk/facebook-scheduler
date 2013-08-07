@@ -8,6 +8,7 @@ Required Libraries
 Usage
 ------
 * Replace POST_TIME and POST_MESSAGE.
+* Obtain an access token [here](https://developers.facebook.com/tools/explorer) and replace ACCESS_TOKEN accordingly.
 * Run script before the scheduled time.
 * Forget!
 
